@@ -1,0 +1,10 @@
+.education__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* background: linear-gradient(60deg, transparent, var(--color-primary-variant), transparent); */
+    padding: 2rem;
+    border-radius: 2rem;
+    transition: var(--transition);
+}
